@@ -15,9 +15,6 @@ Hello and welcome to my GitHub page! I am currently working as a data analyst an
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arthur-americo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=arthur-americo&icon=0&color=0)](https://visitcount.itsvg.in)
 
